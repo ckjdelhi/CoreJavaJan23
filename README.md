@@ -27,3 +27,16 @@ Copy existing github project to local
 2. open folder in cmd
 3. git clone https://github.com/ckjdelhi/CoreJavaJan23.git
 4. import project to your eclipse
+
+Working with latest code
+---------------------
+1. git status
+2. git add .
+3. git commit -m "second commit"
+4. git push origin master
+
+
+Take latet github code in your local
+----------------------------
+1. git pull
+
